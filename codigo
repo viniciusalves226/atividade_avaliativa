@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body{
+            padding: 0;
+        }
+
+        .top_div{
+            margin-top: 80px;
+        }
+
+        .circulo {
+            background-color: rgb(195, 197, 197);
+            height: 200px;
+            width: 200px;
+            border-radius: 100px;
+            margin-left: 700px;
+        }
+
+        .descriçao {
+            margin-left: 250px;
+            align-items: center;
+            text-align: center;
+            width: 100px;
+            height: 100px;
+
+        }
+
+        .img1 {
+            background-color: black;
+            border: solid;
+            height: 300px;
+            width: 300px;
+            margin-left: 450px;
+            border-radius: 10%;
+        }
+
+        .img2 {
+            background-color: black;
+            border: solid;
+            height: 300px;
+            width: 300px;
+            margin-left: 400px;
+            border-radius: 10%;
+        }
+
+        .img3 {
+            background-color: black;
+            border: solid;
+            height: 300px;
+            width: 300px;
+            margin-left: 400px;
+            border-radius: 10%;
+        }
+
+        .texto {
+            font-size: 15px;
+        }
+
+        .bottom_div{
+            margin-top: 100px;
+        }
+
+
+    </style>
+</head>
+
+<body>
+    <div class="top_div">
+        <div class="circulo">
+            <div class="descriçao">
+                <P> <b>MEU NOME </b></P>
+                <p class="texto">PROFISSÃO</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="bottom_div">
+        <div class="img1">
+            <div class="img2">
+                <div class="img3">
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>
