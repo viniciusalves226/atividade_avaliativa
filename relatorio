@@ -1,0 +1,6 @@
+A parte mais dificil de fazer esse teste com toda certeza foi a parte do responsivo 
+alem do mais que eu fui meio atrapalhado e fiz ao contrario fiz desktop firts ao envez de mobile first 
+entao deu um pouco mais de trabalho, outra parte que me complicou muito foi fazer o degrade da parte 
+do "lorem ipsum" ja que toda vez que eu colova alguma coisa dentro daquela "div" ele trocava ela de lugar
+fazendo ficar torta ou desalinhada comparada com o resto do site, e uma parte que nao foi tao complicada mas
+ainda me fez quebrar a cabeça um pouco foi alinhar o site no desktop firts mas nao foi tao complicado igual pensei
